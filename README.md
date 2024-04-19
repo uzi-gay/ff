@@ -1,1 +1,2 @@
-Resources come from other libraries
+Resources come from other libraries，
+For learning only
