@@ -10,7 +10,7 @@ http://125.210.150.58:9090/live/hzgq-cctv4gq-h264.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://125.210.150.58:9090/live/hzgq-cctv5gq-h264.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-https://s4-l2.dnvodcdn.me/edge/thechannel6/chunklist.m3u8?dnvodendtime=1715269722&dnvodhash=rGJBZgMceyHw1YBfsuL4D_2mpHTYbwp6cM8HWDF3vWw=&dnvodCustomParameter=129388916_2a12%3af8c1%3a41%3a1%3a7843%3a6cff%3afeb2%3ad540.JP_1&lb=a3abd5ad6809e21bae5a90a0267db387&us=1&vv=2fe061a174c9f7206d1a31341c5e0832&pub=CJSnDJ0vCpCnDIupD35VIb1VCc4nCZfcE6CnEZGnEZ4wDpWqCpesOsPcEcPbOZ8wP3KqC5ynCR6Oi9eO6B2O6hAQ6vcoi9YRi9eQch6nd9mp6naQiIzOZWmD3CqDMCmOZPbDp1XDp5aDMPZOp4mC6DXP3XXOc4
+https://s4-l2.dnvodcdn.me/edge/thechannel6/chunklist.m3u8?dnvodendtime=1715443836&dnvodhash=usVSGWO2EruntJe6JFNMKX1aK1VHORhCNccoM7NQAMo=&dnvodCustomParameter=129388916_2a12%3af8c1%3a41%3a1%3a7843%3a6cff%3afeb2%3ad540.JP_1&lb=a3abd5ad6809e21bae5a90a0267db387&us=1&vv=36f8b5249e9626d5cc03b9577727a582&pub=CJSnDJ8sDpGpCIunE3LVIb1VCc4nCZfcE6CnEZGnEZ4wDpWqCpesOsPcEcPbOZ8wP3KqC5ySihAQ6HWOcXgnC9eQCJAnd32o6vgPc9eoCZCPiZ4OiozD3GmDsCsEM8pOpXaEJamP6KvP6CoDJ9ZDMGtD3bZDs1
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://125.210.150.58:9090/live/hzgq-cctv6gq-h264.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
