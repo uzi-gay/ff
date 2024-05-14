@@ -4,7 +4,7 @@ https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://120.233.184.248/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2022576501.m3u8
+https://s4-l2.dnvodcdn.me/edge/thechannel3/chunklist.m3u8?dnvodendtime=1715875259&dnvodhash=g-5NFWOiv56SQCUQ5RhGJEr3G2kxJTLIXgXyi8t1AkM=&dnvodCustomParameter=129388916_2a12%3af8c1%3a41%3a1%3a7843%3a6cff%3afeb2%3ad540.JP_1&lb=f5acf7c796f2385f4c7a5d7b2d13b02d&us=1&vv=871f5548e058d9d163adc8e513fdf5a2&pub=CJSnDJOvE3WrDouuCJDVIb1VCc4nCZfcE6CnEZGnEZ4wDpWqCpesOsPcEcPbOZ8wP3KqC5yocviS6HonifmRiPkQCnkPC9YpCHYRd9ePcvmQCHeO6ozEJ8mE6HXP3CrOcCpDpauPJ8qC34oD3XcDpTZCpaoOZ3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://120.233.184.248/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2022576601.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
@@ -12,11 +12,11 @@ https://s4-l2.dnvodcdn.me/edge/thechannel5/chunklist.m3u8?dnvodendtime=171587518
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://120.233.184.248/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2022574301.m3u8
+https://s4-l2.dnvodcdn.me/edge/thechannel7/chunklist.m3u8?dnvodendtime=1715875309&dnvodhash=uEgmd6qVa9gYZjwvFeYlSGofcmUBlaSXi-Yqy04NLq4=&dnvodCustomParameter=129388916_2a12%3af8c1%3a41%3a1%3a7843%3a6cff%3afeb2%3ad540.JP_1&lb=2d58d72485799d8ef203610be71efb47&us=1&vv=81819a613dcf5929843a129a00e02f09&pub=CJSnDJOvE3WrDouuCJDVIb1VCc4nCZfcE6CnEZGnEZ4wDpWqCpesOsPcEcPbOZ8wP3KqC5yocviS6HonifmRiPkQCnkPC9YpCHYRd9ePcvmQCHeO6ozEJ8mE6HXP3CrOcCpDpauPJ8qC34oD3XcDpTZCpaoOZ3
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://120.233.184.248/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2022576201.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://120.233.184.248/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2022576101.m3u8
+https://s4-l2.dnvodcdn.me/edge/thechannel9/chunklist.m3u8?dnvodendtime=1715875338&dnvodhash=P2MJCctw9rmK4A2IGyFRV-Z6apIdtflvrepwUf967oQ=&dnvodCustomParameter=129388916_2a12%3af8c1%3a41%3a1%3a7843%3a6cff%3afeb2%3ad540.JP_1&lb=dade333ef2bab24a72ca020df65b99a9&us=1&vv=e11c46253d678d46da8eacfe9af2a0dd&pub=CJSnDJOvE3WrDouuCJDVIb1VCc4nCZfcE6CnEZGnEZ4wDpWqCpesOsPcEcPbOZ8wP3KqC5yocviS6HonifmRiPkQCnkPC9YpCHYRd9ePcvmQCHeO6ozEJ8mE6HXP3CrOcCpDpauPJ8qC34oD3XcDpTZCpaoOZ3
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
 http://120.233.184.248/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2022576001.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
