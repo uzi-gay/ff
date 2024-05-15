@@ -12,13 +12,13 @@ https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-https://s4-l2.dnvodcdn.me/edge/thechannel7/chunklist.m3u8?dnvodendtime=1715875309&dnvodhash=uEgmd6qVa9gYZjwvFeYlSGofcmUBlaSXi-Yqy04NLq4=&dnvodCustomParameter=129388916_2a12%3af8c1%3a41%3a1%3a7843%3a6cff%3afeb2%3ad540.JP_1&lb=2d58d72485799d8ef203610be71efb47&us=1&vv=81819a613dcf5929843a129a00e02f09&pub=CJSnDJOvE3WrDouuCJDVIb1VCc4nCZfcE6CnEZGnEZ4wDpWqCpesOsPcEcPbOZ8wP3KqC5yocviS6HonifmRiPkQCnkPC9YpCHYRd9ePcvmQCHeO6ozEJ8mE6HXP3CrOcCpDpauPJ8qC34oD3XcDpTZCpaoOZ3
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 http://120.233.184.248/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2022576201.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-https://s4-l2.dnvodcdn.me/edge/thechannel9/chunklist.m3u8?dnvodendtime=1715875338&dnvodhash=P2MJCctw9rmK4A2IGyFRV-Z6apIdtflvrepwUf967oQ=&dnvodCustomParameter=129388916_2a12%3af8c1%3a41%3a1%3a7843%3a6cff%3afeb2%3ad540.JP_1&lb=dade333ef2bab24a72ca020df65b99a9&us=1&vv=e11c46253d678d46da8eacfe9af2a0dd&pub=CJSnDJOvE3WrDouuCJDVIb1VCc4nCZfcE6CnEZGnEZ4wDpWqCpesOsPcEcPbOZ8wP3KqC5yocviS6HonifmRiPkQCnkPC9YpCHYRd9ePcvmQCHeO6ozEJ8mE6HXP3CrOcCpDpauPJ8qC34oD3XcDpTZCpaoOZ3
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://120.233.184.248/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2022576001.m3u8
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
