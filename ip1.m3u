@@ -8,7 +8,7 @@ https://s4-l2.dnvodcdn.me/edge/thechannel3/chunklist.m3u8?dnvodendtime=171587525
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://120.233.184.248/4.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2022576601.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-https://s4-l2.dnvodcdn.me/edge/thechannel5/chunklist.m3u8?dnvodendtime=1715875189&dnvodhash=7fsHmuYd64qwF8xkxpJKceg-WeTEgbC2o_ddrVN77vA=&dnvodCustomParameter=129388916_2a12%3af8c1%3a41%3a1%3a7843%3a6cff%3afeb2%3ad540.JP_1&lb=ae107b660a6f76ba9a3ad68a373a0a87&us=1&vv=9a0cfcf6abe333f401c4c30260a58219&pub=CJSnDJOvE3StDoumE5ybA2zCc4nCZfcE6CnEZGnEZ4wDpWqCpesOsPcEcPbOZ8wP3KqC5yoCneocBCQiPcRc1aQCp8RCJAPi9eoiR6RCZ2p6xCOiozEJ4nP6CvCpSsOp0rCpDaDsCnDpHXPMPZCpOqDJXbPZ2
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
